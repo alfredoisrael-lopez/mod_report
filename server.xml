@@ -25,5 +25,5 @@ Wed Dec 02 18:36:55 UTC 2020--><server>
         <library>
             <file name="${DERBY_JDBC_DRIVER_PATH}/derby.jar"/>
         </library>
-    </jdbcDriver>--><application id="modresorts-1_0_war" location="modresorts10war.war" name="modresorts-1_0_war" type="war"/>
+    </jdbcDriver>--><application id="modresorts-1_0_war" location="modresorts.1.0.war" name="modresorts-1_0_war" type="war"/>
 </server>
